@@ -1,0 +1,48 @@
+ENVIAR CORREOS REACT-NODE JS
+
+NPM:
+https://www.npmjs.com/package/nodemailer
+
+
+React Implementacion
+https://www.emailjs.com/docs/examples/reactjs/
+
+
+SE USA LIBRERIA EMAILJS PARA NODE.
+
+------------------------------------------------------------------------------------------------
+USUARIO EMAILJS. ( SE PASA EL SERVICIO A USAR Y SE CREAN LOS TEMPLATE DEL CORREO A ENVIAR  ).
+------------------------------------------------------------------------------------------------
+nombre : Beertech
+mail: mail.beertech@gmail.com
+contraseña : mailBeerTech0
+ApiKey: user_oegYyvxy57UCNV5jeXonc
+
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+USUARIO CONTACTO BEERTECH GMAIL ( SE ENCARGARA DE ENVIAR LOS CORRES AL CORREO DE LA EMPRESA ).
+------------------------------------------------------------------------------------------------
+nombre : Contacto,
+Apellido : BeerTech
+mail : contactoBeerTech.noreply@gmail.com
+contraseña : contactoBeerTech0
+
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+USUARIO EMPRESA BEERTECH GMAIL. (LLEGARAN LOS CORREOS DESDE LA WEB ).
+------------------------------------------------------------------------------------------------
+nombre : Beertech
+apellido : Email
+mail: mail.beertech@gmail.com
+contraseña : mailBeerTech0
+
+------------------------------------------------------------------------------------------------
+SE USA LA TECNOLOGIA EMAILJS.
